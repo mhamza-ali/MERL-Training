@@ -12,3 +12,18 @@
  - flip flop
  - comaparators
  - latches
+
+## 3. Counters and State Machines
+ - 2 bit synchronous counter
+ - asynchronous counter
+ - State Machines
+ -  1.Mealy Machines
+ -  2.Moorey Machines
+ 
+## 4. Assembly language Basics
+ - varaibles
+ - addition
+ - subtraction
+ - multiplication
+ - state shifting
+ - conditional flows
