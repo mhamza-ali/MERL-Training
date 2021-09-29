@@ -27,3 +27,8 @@
  - multiplication
  - state shifting
  - conditional flows
+
+## 5. Loading and storing data in Risc-V assembly 
+ - store data
+ - load data
+ - reminder function
