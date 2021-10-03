@@ -1,6 +1,7 @@
 # MERL-UIT-Training
 ## How to use:
  - The software I used for simulation is logisim you can easily open it with that to try and run the simulations
+ - For using assembly code to run you can use venus an online editor to run the code or you can use it in vscode by installing Risc V simulator.
 
 
 ## 1. Transistor
@@ -27,3 +28,8 @@
  - multiplication
  - state shifting
  - conditional flows
+
+## 5. Loading and storing data in Risc-V assembly 
+ - store data
+ - load data
+ - reminder function
