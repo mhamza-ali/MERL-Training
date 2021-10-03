@@ -35,5 +35,5 @@
  - reminder function
 
 ## 6. Processor working stages
- - 1.Fetch Unit
-     32-bit fetch unit circuit diagram simulationon logisim
+ - 1.Fetch Unit: 
+     32-bit fetch unit circuit diagram simulation on logisim
